@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\window_return.xml",
+        "source": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\src\\main\\res\\transition-v21\\window_return.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\fade.xml",
+        "source": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\src\\main\\res\\transition-v21\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\shared_move.xml",
+        "source": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\src\\main\\res\\transition-v21\\shared_move.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\window_enter.xml",
+        "source": "C:\\Users\\Cigdem Avci Salma\\AndroidStudioProjects\\tummy\\Application\\src\\main\\res\\transition-v21\\window_enter.xml"
+    }
+]
